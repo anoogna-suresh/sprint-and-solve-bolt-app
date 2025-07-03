@@ -25,7 +25,7 @@ This app was created using a single AI prompt via Bolt.new, deployed on Netlify 
 - 🌐 [Netlify](https://netlify.com) – Deployment  
 - 🧩 Auto-generated stack: React, TypeScript, Tailwind CSS  
 
-> ⚠️ All UI logic was AI-generated. Only the Bolt badge was manually added.
+> ⚠️ All UI logic was AI-generated.
 
 ---
 
